@@ -1,0 +1,15 @@
+{
+  "name": "11_prepost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello world \" && echo \"I love the summer season\"",
+    "piyush": "echo I am piyush",
+    "prepiyush":"echo I am pre piyush",
+    "postpiyush": "echo I am post piyush"
+  },
+  "keywords": [],
+  "author": "Piyush Koranne",
+  "license": "ISC"
+}

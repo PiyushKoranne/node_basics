@@ -1,0 +1,16 @@
+{
+  "name": "7_npm",
+  "version": "1.0.0",
+  "description": "Learning More About some NPM packages for Node JS ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "once": "node index.js"
+  },
+  "author": "Piyush Koranne",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator": "^13.9.0"
+  }
+}
